@@ -1,0 +1,5 @@
+I once worked on a server that was super-locked down, but I still needed to access JSON data, images, and web pages on another server.  Hence, this class was born.
+
+It's basically a utiltity class to keep me from re-inventing the wheel each time I run accross a locked down server.
+
+Feel free to use it if you find it helpful.
